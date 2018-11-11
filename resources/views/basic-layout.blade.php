@@ -199,11 +199,12 @@
             <!-- User Info -->
             <div class="user-info">
                 <div class="image">
-                    <img src="images/user.png" width="48" height="48" alt="User" />
+                    <a href=" images/user.jpg" data-sub-html="Demo Description">
+                    <img src="images/user.jpg" width="48" height="48" alt="User" /></a>
                 </div>
                 <div class="info-container">
-                    <div class="name" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">John Doe</div>
-                    <div class="email">john.doe@example.com</div>
+                    <div class="name" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pradyumn Gupta</div>
+                    <div class="email">2016.pradyumn.gupta@ves.ac.in</div>
                     <div class="btn-group user-helper-dropdown">
                         <i class="material-icons" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">keyboard_arrow_down</i>
                         <ul class="dropdown-menu pull-right">
